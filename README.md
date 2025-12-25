@@ -148,5 +148,5 @@ MIT License—see `LICENSE` file.
 ---
 
 ## Author & contact
-Bernadetta Baran · [bernadetta.baran@gea.com](mailto:bernadetta.baran@gea.com)
+Bernadetta Baran · [bernadetta.anastazja.baran@gmail.com](mailto:bernadetta.anastazja.baran@gmail.com)
 Questions, ideas or patches are welcome—happy extracting!
